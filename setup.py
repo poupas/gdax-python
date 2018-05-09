@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 install_requires = [
     'bintrees==2.0.7',
     'requests',
-    'six==1.10.0',
+    'six',
     'websocket-client==0.40.0',
     'pymongo==3.5.1'
 ]
